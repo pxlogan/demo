@@ -6,4 +6,4 @@ This is a sample file
 
 More changes
 
-On a branch
+Conflict
